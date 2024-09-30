@@ -3,7 +3,7 @@ In this project, we explored a breast cancer dataset to understand its structure
 
 * We loaded the dataset, looked at the first few rows, and identified key columns like tumor features (e.g., radius_mean, texture_mean) and the target (diagnosis, indicating benign or malignant).
 
-*We removed unnecessary columns (id and one empty column) and confirmed there were no missing values.
+* We removed unnecessary columns (id and one empty column) and confirmed there were no missing values.
 
 * We checked basic stats (mean, min, max) for each feature to understand their ranges.
 
